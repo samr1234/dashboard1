@@ -1,0 +1,15 @@
+.app-container{
+
+display: flex;
+gap: 4px;
+width: 100%;
+height: 100vh;
+background-color: #F7F7F7;
+
+}
+
+.main-navbar{
+    flex: 1;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
