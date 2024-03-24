@@ -166,13 +166,13 @@ const DashboardContent = () => {
       </div>
     </div>
 
-    <div className="footer px-2 py-2 ">
+    <div className="footer px-2 py-1 ">
 
     <div className="flex justify-evenly items-center mx-auto gap-1 sm:gap-5 md:gap-10 footer-res">
                 {data.map((item, index) => (
                   <div
                     key={index}
-                    className="middle-menu-content flex justify-evenly  items-center text-black"
+                    className="middle-menu-content flex justify-evenly items-center text-black"
                     
                     onClick={() => handleClick(index)}
                   >
@@ -183,16 +183,16 @@ const DashboardContent = () => {
                       }}
                     >
                       <span
-                        className={`menu-icon  text-black mb-[3px] ${
-                          activeIndex === index ? "text-[#1D46C8]" : "#E7EEFB"
+                        className={`menu-icon   mb-[3px] ${
+                          activeIndex === index ? "text-[#1D46C8]" : "text-black"
                         }`}
                       >
                         {item.icon}
                       </span>
                       {/* {item.icon} */}
                       <p
-                        className={`text-black text-xs sm:text-sm md:text-md ${
-                          activeIndex === index ? "text-[#1D46C8]" : "#E7EEFB"
+                        className={` text-xs sm:text-sm md:text-md ${
+                          activeIndex === index ? "text-[#1D46C8]" : "text-black"
                         }`}
                       >
                         {item.text}

@@ -78,14 +78,15 @@
     display: none;
     
     overflow: hidden;
-    position: absolute;
-    bottom: 0;
+    position: fixed;
+    bottom: 0px;
     background: white;
     /* width: 100%; */
     @media (max-width:1024px)
     {
         width: 100%;
         display: flex;
+        
         
     }
 }
