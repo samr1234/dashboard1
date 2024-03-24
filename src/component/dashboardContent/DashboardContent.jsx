@@ -61,7 +61,7 @@ const DashboardContent = () => {
           </div>
         </div>
         <div className="img-child">
-          <img src="/public/child.png" alt="" />
+          <img src="/child.png" alt="" />
           <div className="img-text">
             <h1 className="img-content text-white text-2xl md:text-3xl">
               One Share can save many lives
@@ -83,7 +83,7 @@ const DashboardContent = () => {
             <div className="flex gap-4 mb-4">
               <div className="flex flex-col items-center gap-2">
                 <img
-                  src="/public/Frame 427318922.png"
+                  src="/Frame 427318922.png"
                   alt=""
                   className="w-48"
                 />
@@ -91,7 +91,7 @@ const DashboardContent = () => {
               </div>
               <div className="flex flex-col items-center gap-2">
                 <img
-                  src="/public/Frame 427318923.png"
+                  src="/Frame 427318923.png"
                   alt=""
                   className="w-48"
                 />
@@ -99,14 +99,14 @@ const DashboardContent = () => {
               </div>
               <div className="flex flex-col items-center gap-2">
                 <img
-                  src="/public/Frame 427319153.png"
+                  src="/Frame 427319153.png"
                   alt=""
                   className="w-48"
                 />
                 <h3>Reading</h3>
               </div>
               <div className="flex flex-col items-center gap-2">
-                <img src="/public/Frame 48097381.png" alt="" className="w-48" />
+                <img src="/Frame 48097381.png" alt="" className="w-48" />
                 <h3>Writing</h3>
               </div>
             </div>
@@ -114,7 +114,7 @@ const DashboardContent = () => {
             <div className="flex gap-4 mb-4">
               <div className="flex flex-col items-center gap-2">
                 <img
-                  src="/public/Frame 427319150.png"
+                  src="/Frame 427319150.png"
                   alt=""
                   className="w-48"
                 />
@@ -122,7 +122,7 @@ const DashboardContent = () => {
               </div>
               <div className="flex flex-col items-center gap-2">
                 <img
-                  src="/public/Frame 427319151.png"
+                  src="/Frame 427319151.png"
                   alt=""
                   className="w-48"
                 />
@@ -130,7 +130,7 @@ const DashboardContent = () => {
               </div>
               <div className="flex flex-col items-center gap-2">
                 <img
-                  src="/public/Frame 427319154.png"
+                  src="/Frame 427319154.png"
                   alt=""
                   className="w-48"
                 />
@@ -138,7 +138,7 @@ const DashboardContent = () => {
               </div>
               <div className="flex flex-col items-center gap-2">
                 <img
-                  src="/public/Frame 427319114.png"
+                  src="/Frame 427319114.png"
                   alt=""
                   className="w-48"
                 />
@@ -148,7 +148,7 @@ const DashboardContent = () => {
           </div>
           <div className="md:w-56  lg:w-72 mx-auto ">
             <div className="flex justify-center items-center gap-1 bg-white  rounded-lg shadow-xl py-2">
-              <img src="/public/youtube (8) 1.png" alt="" width={25} />
+              <img src="/youtube (8) 1.png" alt="" width={25} />
               <h1>App Guide Video</h1>
             </div>
             <div className="bg-white py-4 px-6 pr-4  mt-4 rounded-lg">

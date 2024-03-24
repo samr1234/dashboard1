@@ -23,7 +23,7 @@ const Sidebar = ({ closeSidebar }) => {
       // background: "transparent",
     },
     {
-      img:<img src="/public/Frame 48097125.png" alt="" width={22}/>,
+      img:<img src="/Frame 48097125.png" alt="" width={22}/>,
       text: "Stories",
       background: "transparent",
     },
